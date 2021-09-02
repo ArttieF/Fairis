@@ -1,0 +1,73 @@
+{
+  "showItems": true,
+  "repairCost": true,
+  "pingIndicator": true,
+  "infinityFix": true,
+  "itemEntity": true,
+  "beehiveTips": true,
+  "durabilityWarn": false,
+  "cropStuff": {
+    "cropSparkle": false,
+    "sparkleType": "INSTANT_EFFECT",
+    "sparkleCount": 2
+  },
+  "clockStuff": {
+    "doClock": true,
+    "clockCorner": 1,
+    "clockMilitary": true,
+    "clockAmPm": true
+  },
+  "showSleepCount": true,
+  "toggles": {
+    "chunker": true,
+    "slimer": true,
+    "daylighter": true,
+    "fleather": true,
+    "charcoal": true,
+    "coalChunks": true,
+    "sticks": true,
+    "featherBlock": true,
+    "gliders": false,
+    "furnaces": true,
+    "blasts": true,
+    "smokers": true,
+    "woolArmor": true,
+    "copperArmor": true,
+    "allTools": true,
+    "toolToggles": {
+      "graniteTools": true,
+      "dioriteTools": true,
+      "andesiteTools": true,
+      "quartzTools": true,
+      "netherrackTools": true,
+      "netherbrickTools": true,
+      "redNetherbrickTools": true,
+      "sandstoneTools": true,
+      "redSandstoneTools": true,
+      "lapisTools": true,
+      "emeraldTools": true,
+      "flintTools": true,
+      "redstoneTools": true,
+      "blackstoneTools": true,
+      "basaltTools": true,
+      "endstoneTools": true,
+      "warpedTools": true,
+      "crimsonTools": true,
+      "amethystTools": true,
+      "copperTools": true,
+      "deepslateTools": true
+    },
+    "allCompressedBlocks": false,
+    "compressedBlocks": {
+      "cobble": true,
+      "dirt": true,
+      "diorite": true,
+      "andesite": true,
+      "granite": true,
+      "netherrack": true,
+      "sand": true,
+      "gravel": true,
+      "deepslate": true
+    }
+  }
+}
