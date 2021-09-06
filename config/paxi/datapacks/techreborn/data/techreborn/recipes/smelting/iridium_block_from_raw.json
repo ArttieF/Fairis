@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": {
+		"item": "techreborn:raw_iridium_storage_block"
+	},
+	"result": "techreborn:iridium_storage_block",
+	"experience": 4.5,
+	"cookingtime": 200
+}
