@@ -24,9 +24,9 @@
 		// The maximum number of blocks to mine without the enchantment
 		"requireEffectiveTool": true,
 		// The maximum number of blocks to mine without the enchantment
-		"maxBlocksBase": 0,
+		"maxBlocksBase": 2,
 		// The maximum distance from the source block without the enchantment
-		"maxDistanceBase": 0,
+		"maxDistanceBase": 2,
 		// The maximum number of blocks to mine per level of the enchantment
 		"maxBlocksPerLevel": 4,
 		// The maximum distance from the source block per level of the enchantment
