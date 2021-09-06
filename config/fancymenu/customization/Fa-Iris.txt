@@ -1,0 +1,190 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  identifier = %id=400310%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 89
+}
+
+customization {
+  identifier = %id=400310%
+  seconds = 1.0
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=400358%
+  orientation = mid-right
+  x = -269
+  action = movebutton
+  y = 114
+}
+
+customization {
+  identifier = %id=400358%
+  width = 50
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400358%
+  seconds = 3.0
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=604394%
+  orientation = bottom-right
+  x = -269
+  action = movebutton
+  y = -38
+}
+
+customization {
+  identifier = %id=604394%
+  width = 22
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=604394%
+  seconds = 3.5
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=400286%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 64
+}
+
+customization {
+  identifier = %id=400286%
+  seconds = 0.5
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=400334%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400394%
+  orientation = mid-centered
+  x = -49
+  action = movebutton
+  y = 114
+}
+
+customization {
+  identifier = %id=400394%
+  seconds = 1.5
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=502394%
+  orientation = bottom-centered
+  x = -49
+  action = movebutton
+  y = -38
+}
+
+customization {
+  identifier = %id=502394%
+  seconds = 2.0
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=376394%
+  orientation = bottom-right
+  x = -241
+  action = movebutton
+  y = -38
+}
+
+customization {
+  identifier = %id=376394%
+  width = 22
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=376394%
+  seconds = 3.5
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  orientation = mid-centered
+  delayappearanceseconds = 4.0
+  buttonaction = joinserver
+  label = Join Fa-Iris [Public]
+  fadein = true
+  fadeinspeed = 1.0
+  x = -55
+  width = 111
+  actionid = 8c2d4dbc-f945-45e2-acf4-2d07d2ff67c71630955240273
+  action = addbutton
+  y = -168
+  delayappearance = true
+  value = 69.246.138.249:25565
+  delayappearanceeverytime = true
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  delayappearanceseconds = 4.0
+  slim = false
+  scale = 30
+  showname = true
+  crouching = false
+  x = 0
+  actionid = 0b6e6f81-82b6-4799-93f0-a5111b87a1581630955247824
+  action = addentity
+  y = 27
+  delayappearance = true
+  playername = %playername%
+  parrot = false
+  delayappearanceeverytime = true
+}
+
