@@ -87,7 +87,7 @@
 #Husks spawn anywhere within their biome and have a chance to drop sand.
 "HuskImprovements Enabled" = true
 #Button to automatically tidy inventories.
-"InventoryTidying Enabled" = true
+"InventoryTidying Enabled" = false
 #A functional block that speeds up cooking of clay, glass, bricks and terracotta.
 "Kilns Enabled" = true
 #Drop an item onto a lava bucket item to destroy it.
@@ -160,21 +160,21 @@
 #As long as a Totem of Undying is in your inventory, it will be consumed to protect you from death.
 "UseTotemFromInventory Enabled" = true
 #Barrels available in all types of vanilla wood.
-"VariantBarrels Enabled" = true
+"VariantBarrels Enabled" = false
 #Variant bars crafted from vanilla metal ingots.
-"VariantBars Enabled" = true
+"VariantBars Enabled" = false
 #Bookshelves available in all types of vanilla wood.
-"VariantBookshelves Enabled" = true
+"VariantBookshelves Enabled" = false
 #Variant chains crafted from vanilla metal ingots and nuggets.
-"VariantChains Enabled" = true
+"VariantChains Enabled" = false
 #Chests available in all types of vanilla wood.
-"VariantChests Enabled" = true
+"VariantChests Enabled" = false
 #Ladders available in all types of vanilla wood.
-"VariantLadders Enabled" = true
+"VariantLadders Enabled" = false
 #Variants lanterns crafted from vanilla metal nuggets and torches.
-"VariantLanterns Enabled" = true
+"VariantLanterns Enabled" = false
 #Mobs may spawn with different textures.
-"VariantMobTextures Enabled" = true
+"VariantMobTextures Enabled" = false
 #Villagers are attracted when the player holds a block of emeralds.
 "VillagersFollowEmeraldBlocks Enabled" = true
 #Wandering traders only appear near signal campfires and sell maps to biomes and structures.
@@ -196,7 +196,7 @@
 
 [Atlases]
 	#Allow opening the atlas while it is in the off hand.
-	"Open in off hand" = false
+	"Open in off hand" = true
 	#Map scale used in atlases by default.
 	"Map scale" = 0
 
@@ -427,21 +427,21 @@
 
 [VariantMobTextures]
 	#If true, cows may spawn with different textures.
-	"Variant cows" = true
+	"Variant cows" = false
 	#If true, chickens may spawn with different textures.
-	"Variant chickens" = true
+	"Variant chickens" = false
 	#If true, pigs may spawn with different textures.
-	"Variant pigs" = true
+	"Variant pigs" = false
 	#If true, sheep face and 'shorn' textures match their wool color.
-	"Variant sheep" = true
+	"Variant sheep" = false
 	#If true, snow golems may spawn with different derp faces.
-	"Variant snow golems" = true
+	"Variant snow golems" = false
 	#If true, squids may spawn with different textures.
-	"Variant squids" = true
+	"Variant squids" = false
 	#If true, wolves may spawn with different textures.
-	"Variant wolves" = true
+	"Variant wolves" = false
 	#If true, all animals have a chance to spawn as a rare variant.
-	"Rare variants" = true
+	"Rare variants" = false
 	#Approximately 1 in X chance of a mob spawning as a rare variant.
 	"Rarity of rare variants" = 1000
 
