@@ -1,0 +1,15 @@
+{
+	"type": "crafting_shapeless",
+	"group": "andesite",
+	"ingredients": [{
+			"item": "diorite"
+		},
+		{
+			"item": "cobblestone"
+		}
+	],
+	"result": {
+		"item": "andesite",
+		"count": 2
+	}
+}

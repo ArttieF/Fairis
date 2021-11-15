@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shapeless",
+  "group": "wool",
+  "ingredients": [
+    {
+      "item": "orange_dye"
+    },
+    {
+      "tag": "wool"
+    }
+  ],
+  "result": {
+    "item": "orange_wool"
+  }
+}

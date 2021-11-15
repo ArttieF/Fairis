@@ -1,0 +1,36 @@
+{
+	"type": "crafting_shapeless",
+	"group": "concrete_powder",
+	"ingredients": [{
+			"item": "purple_dye"
+		},
+		{
+			"tag": "sand"
+		},
+		{
+			"tag": "sand"
+		},
+		{
+			"tag": "sand"
+		},
+		{
+			"tag": "sand"
+		},
+		{
+			"item": "gravel"
+		},
+		{
+			"item": "gravel"
+		},
+		{
+			"item": "gravel"
+		},
+		{
+			"item": "gravel"
+		}
+	],
+	"result": {
+		"item": "purple_concrete_powder",
+		"count": 8
+	}
+}

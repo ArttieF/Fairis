@@ -1,0 +1,14 @@
+{
+	"type": "crafting_shapeless",
+	"group": "dyed_bed",
+	"ingredients": [{
+			"tag": "beds"
+		},
+		{
+			"item": "lime_dye"
+		}
+	],
+	"result": {
+		"item": "lime_bed"
+	}
+}

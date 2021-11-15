@@ -1,0 +1,14 @@
+{
+	"type": "crafting_shapeless",
+	"group": "granite",
+	"ingredients": [{
+			"item": "diorite"
+		},
+		{
+			"item": "quartz"
+		}
+	],
+	"result": {
+		"item": "granite"
+	}
+}

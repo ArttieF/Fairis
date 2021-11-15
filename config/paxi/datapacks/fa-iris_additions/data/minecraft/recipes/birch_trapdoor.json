@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shaped",
+	"group": "wooden_trapdoor",
+	"pattern": [
+		"###",
+		"###"
+	],
+	"key": {
+		"#": {
+			"item": "birch_planks"
+		}
+	},
+	"result": {
+		"item": "birch_trapdoor",
+		"count": 6
+	}
+}

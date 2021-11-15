@@ -1,0 +1,21 @@
+{
+	"type": "crafting_shaped",
+	"group": "stained_glass",
+	"pattern": [
+		"###",
+		"#X#",
+		"###"
+	],
+	"key": {
+		"#": {
+			"tag": "platy:glasses"
+		},
+		"X": {
+			"item": "blue_dye"
+		}
+	},
+	"result": {
+		"item": "blue_stained_glass",
+		"count": 8
+	}
+}

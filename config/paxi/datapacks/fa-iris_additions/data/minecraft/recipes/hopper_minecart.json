@@ -1,0 +1,19 @@
+{
+	"type": "crafting_shaped",
+	"group": "hopper_minecart",
+	"pattern": [
+		"A",
+		"B"
+	],
+	"key": {
+		"A": {
+			"item": "hopper"
+		},
+		"B": {
+			"item": "minecart"
+		}
+	},
+	"result": {
+		"item": "hopper_minecart"
+	}
+}

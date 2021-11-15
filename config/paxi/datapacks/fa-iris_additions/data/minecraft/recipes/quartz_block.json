@@ -1,0 +1,16 @@
+{
+	"type": "crafting_shaped",
+	"group": "quartz_block",
+	"pattern": [
+		"##",
+		"##"
+	],
+	"key": {
+		"#": {
+			"item": "quartz"
+		}
+	},
+	"result": {
+		"item": "quartz_block"
+	}
+}

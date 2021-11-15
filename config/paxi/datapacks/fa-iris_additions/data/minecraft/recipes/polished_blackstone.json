@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shaped",
+	"group": "polished_blackstone",
+	"pattern": [
+		"SS",
+		"SS"
+	],
+	"key": {
+		"S": {
+			"item": "blackstone"
+		}
+	},
+	"result": {
+		"item": "polished_blackstone",
+		"count": 4
+	}
+}

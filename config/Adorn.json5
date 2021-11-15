@@ -13,12 +13,12 @@
 	},
 	// Mod compatibility toggles (enabled: true, disabled: false)
 	"compat": {
-		"byg": false,
+		"byg": true,
 		"traverse": true,
-		"terrestria": false,
-		"cinderscapes": false,
-		"woods_and_mires": false,
-		"towelette": false,
-		"biomemakeover": false
+		"terrestria": true,
+		"cinderscapes": true,
+		"woods_and_mires": true,
+		"towelette": true,
+		"biomemakeover": true
 	}
 }

@@ -1,0 +1,21 @@
+{
+	"type": "crafting_shaped",
+	"group": "glass",
+	"pattern": [
+		"###",
+		"#X#",
+		"###"
+	],
+	"key": {
+		"#": {
+			"tag": "platy:glasses"
+		},
+		"X": {
+			"item": "ice"
+		}
+	},
+	"result": {
+		"item": "glass",
+		"count": 8
+	}
+}

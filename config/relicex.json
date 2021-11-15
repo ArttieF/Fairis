@@ -1,0 +1,14 @@
+{
+  "monstersDropRelicsChance": 15,
+  "monstersDropHealsChance": 10,
+  "monstersDropLesserOrbChance": 2,
+  "monstersDropGreaterOrbChance": 1,
+  "monstersDropTome": 5,
+  "chestsDropRelicsChance": 25,
+  "chestsDropLesserOrbChance": 5,
+  "chestsDropGreaterOrbChance": 1,
+  "chestsDropTome": 5,
+  "dragonDropsStone": true,
+  "chestsHaveLoot": true,
+  "dropsOnlyFromPlayerKill": false
+}

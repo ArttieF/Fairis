@@ -1,0 +1,15 @@
+{
+	"type": "crafting_shapeless",
+	"group": "cyan_dye",
+	"ingredients": [{
+			"item": "blue_dye"
+		},
+		{
+			"item": "green_dye"
+		}
+	],
+	"result": {
+		"item": "cyan_dye",
+		"count": 2
+	}
+}

@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shapeless",
+  "group": "wool",
+  "ingredients": [
+    {
+      "item": "light_blue_dye"
+    },
+    {
+      "tag": "wool"
+    }
+  ],
+  "result": {
+    "item": "light_blue_wool"
+  }
+}

@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shaped",
+	"group": "cut_red_sandstone",
+	"pattern": [
+		"##",
+		"##"
+	],
+	"key": {
+		"#": {
+			"item": "red_sandstone"
+		}
+	},
+	"result": {
+		"item": "cut_red_sandstone",
+		"count": 4
+	}
+}

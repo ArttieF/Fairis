@@ -1,0 +1,21 @@
+{
+	"type": "crafting_shaped",
+	"group": "banner",
+	"pattern": [
+		"###",
+		"###",
+		" | "
+	],
+	"key": {
+		"#": {
+			"item": "magenta_wool"
+		},
+		"|": {
+			"item": "stick"
+		}
+	},
+	"result": {
+		"item": "magenta_banner",
+		"count": 3
+	}
+}

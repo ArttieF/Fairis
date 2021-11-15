@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"#  ",
+		"## ",
+		"###"
+	],
+	"key": {
+		"#": {
+			"item": "granite"
+		}
+	},
+	"result": {
+		"item": "granite_stairs",
+		"count": 6
+	}
+}

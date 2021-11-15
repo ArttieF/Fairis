@@ -1,0 +1,10 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": [{
+		"item": "stone"
+	}],
+	"result": {
+		"item": "stone_button",
+		"count": 4
+	}
+}

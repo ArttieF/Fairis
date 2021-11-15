@@ -1,0 +1,14 @@
+{
+	"type": "crafting_shapeless",
+	"group": "dyed_bed",
+	"ingredients": [{
+			"tag": "beds"
+		},
+		{
+			"item": "brown_dye"
+		}
+	],
+	"result": {
+		"item": "brown_bed"
+	}
+}

@@ -1,7 +1,7 @@
 #Aerial Affinity is a boots enchantment that increases mining rate when not on the ground.
 "AerialAffinityEnchantment Enabled" = true
 #Removes minimum and maximum XP costs on the anvil. Anvils are also less likely to break.
-"AnvilImprovements Enabled" = false
+"AnvilImprovements Enabled" = true
 #Lightweight armor is invisible and does not increase mob awareness when drinking Potion of Invisibility.
 "ArmorInvisibility Enabled" = true
 #Storage for maps that automatically updates the displayed map as you explore.
@@ -13,7 +13,7 @@
 #Azalea wood is obtainable from naturally occurring azalea trees or by growing azalea saplings.
 "AzaleaWood Enabled" = true
 #Right-click a bat with a bucket to capture it. Right-click again to release it and locate entities around you.
-"BatBuckets Enabled" = true
+"BatBuckets Enabled" = false
 #Passive and friendly mobs will heal themselves within range of a beacon with the regeneration effect.
 "BeaconsHealMobs Enabled" = true
 #Beekeepers are villagers that trade beekeeping items. Their job site is the beehive.
@@ -21,7 +21,7 @@
 #Dungeon variations with different themes according to the biome.
 "BiomeDungeons Enabled" = true
 #Ender pearl storage. Eating a chorus fruit will teleport you to the nearest ender pearl block.
-"BlockOfEnderPearls Enabled" = true
+"BlockOfEnderPearls Enabled" = false
 #A storage block for gunpowder. It obeys gravity and dissolves in lava.
 "BlockOfGunpowder Enabled" = false
 #A storage block for sugar. It obeys gravity and dissolves in water.
@@ -97,7 +97,7 @@
 #Show maps in tooltips.
 "MapTooltips Enabled" = true
 #Adds decoration and more ores to mineshafts.
-"MineshaftImprovements Enabled" = false
+"MineshaftImprovements Enabled" = true
 #Mooblooms are cow-like mobs that come in a variety of flower types. They spawn flowers where they walk and can be milked for suspicious stew.
 "Mooblooms Enabled" = true
 #Crying obsidian can be used to construct nether portal frames.
@@ -114,7 +114,7 @@
 #Right-clicking on a grass path block with a hoe turns it back into dirt.
 "PathToDirt Enabled" = true
 #Player-only pressure plates.
-"PlayerPressurePlates Enabled" = true
+"PlayerPressurePlates Enabled" = false
 #Allows crafting from inventory if the player has a crafting table in their inventory.
 "PortableCrafting Enabled" = true
 #Causes all hoglins in the vicinity to run away from you.
@@ -160,19 +160,19 @@
 #As long as a Totem of Undying is in your inventory, it will be consumed to protect you from death.
 "UseTotemFromInventory Enabled" = true
 #Barrels available in all types of vanilla wood.
-"VariantBarrels Enabled" = false
+"VariantBarrels Enabled" = true
 #Variant bars crafted from vanilla metal ingots.
-"VariantBars Enabled" = false
+"VariantBars Enabled" = true
 #Bookshelves available in all types of vanilla wood.
-"VariantBookshelves Enabled" = false
+"VariantBookshelves Enabled" = true
 #Variant chains crafted from vanilla metal ingots and nuggets.
-"VariantChains Enabled" = false
+"VariantChains Enabled" = true
 #Chests available in all types of vanilla wood.
-"VariantChests Enabled" = false
+"VariantChests Enabled" = true
 #Ladders available in all types of vanilla wood.
-"VariantLadders Enabled" = false
+"VariantLadders Enabled" = true
 #Variants lanterns crafted from vanilla metal nuggets and torches.
-"VariantLanterns Enabled" = false
+"VariantLanterns Enabled" = true
 #Mobs may spawn with different textures.
 "VariantMobTextures Enabled" = false
 #Villagers are attracted when the player holds a block of emeralds.
@@ -196,7 +196,7 @@
 
 [Atlases]
 	#Allow opening the atlas while it is in the off hand.
-	"Open in off hand" = true
+	"Open in off hand" = false
 	#Map scale used in atlases by default.
 	"Map scale" = 0
 
@@ -427,21 +427,21 @@
 
 [VariantMobTextures]
 	#If true, cows may spawn with different textures.
-	"Variant cows" = false
+	"Variant cows" = true
 	#If true, chickens may spawn with different textures.
-	"Variant chickens" = false
+	"Variant chickens" = true
 	#If true, pigs may spawn with different textures.
-	"Variant pigs" = false
+	"Variant pigs" = true
 	#If true, sheep face and 'shorn' textures match their wool color.
-	"Variant sheep" = false
+	"Variant sheep" = true
 	#If true, snow golems may spawn with different derp faces.
-	"Variant snow golems" = false
+	"Variant snow golems" = true
 	#If true, squids may spawn with different textures.
-	"Variant squids" = false
+	"Variant squids" = true
 	#If true, wolves may spawn with different textures.
-	"Variant wolves" = false
+	"Variant wolves" = true
 	#If true, all animals have a chance to spawn as a rare variant.
-	"Rare variants" = false
+	"Rare variants" = true
 	#Approximately 1 in X chance of a mob spawning as a rare variant.
 	"Rarity of rare variants" = 1000
 

@@ -1,0 +1,17 @@
+{
+  "type": "alloy_forgery:forging",
+  "inputs": [
+    {
+      "item": "indrev:gold_dust"
+    },
+    {
+      "item": "indrev:silver_dust"
+    }
+  ],
+  "output": {
+    "id": "indrev:electrum_ingot",
+    "count": 2
+  },
+  "min_forge_tier": 1,
+  "fuel_per_tick": 5
+}

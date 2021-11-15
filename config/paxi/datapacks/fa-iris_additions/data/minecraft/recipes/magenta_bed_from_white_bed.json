@@ -1,0 +1,14 @@
+{
+	"type": "crafting_shapeless",
+	"group": "dyed_bed",
+	"ingredients": [{
+			"tag": "beds"
+		},
+		{
+			"item": "magenta_dye"
+		}
+	],
+	"result": {
+		"item": "magenta_bed"
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"type": "crafting_shaped",
+	"group": "hopper",
+	"pattern": [
+		"I I",
+		"ICI",
+		" I "
+	],
+	"key": {
+		"C": {
+			"tag": "platy:chests_and_barrels"
+		},
+		"I": {
+			"item": "iron_ingot"
+		}
+	},
+	"result": {
+		"item": "hopper"
+	}
+}

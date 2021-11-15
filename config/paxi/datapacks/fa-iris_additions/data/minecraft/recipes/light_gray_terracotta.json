@@ -1,0 +1,21 @@
+{
+	"type": "crafting_shaped",
+	"group": "stained_terracotta",
+	"pattern": [
+		"###",
+		"#X#",
+		"###"
+	],
+	"key": {
+		"#": {
+			"tag": "platy:terracottas"
+		},
+		"X": {
+			"item": "light_gray_dye"
+		}
+	},
+	"result": {
+		"item": "light_gray_terracotta",
+		"count": 8
+	}
+}

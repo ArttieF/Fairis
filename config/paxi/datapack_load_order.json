@@ -1,3 +1,3 @@
 {
-  "loadOrder": ["Fabric Mods","Fa-Iris Compatability"]
+  "loadOrder": ["fa-iris_additions","vanilla","fabric mods"]
 }

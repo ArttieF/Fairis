@@ -1,0 +1,14 @@
+{
+	"type": "crafting_shapeless",
+	"group": "dyed_bed",
+	"ingredients": [{
+			"tag": "beds"
+		},
+		{
+			"item": "orange_dye"
+		}
+	],
+	"result": {
+		"item": "orange_bed"
+	}
+}

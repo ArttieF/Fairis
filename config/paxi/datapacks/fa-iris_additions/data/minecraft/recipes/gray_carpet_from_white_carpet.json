@@ -1,0 +1,21 @@
+{
+	"type": "crafting_shaped",
+	"group": "carpet",
+	"pattern": [
+		"###",
+		"#$#",
+		"###"
+	],
+	"key": {
+		"#": {
+			"tag": "carpets"
+		},
+		"$": {
+			"item": "gray_dye"
+		}
+	},
+	"result": {
+		"item": "gray_carpet",
+		"count": 8
+	}
+}

@@ -1,0 +1,27 @@
+{
+  "type": "alloy_forgery:forging",
+  "inputs": [
+    {
+      "item": "indrev:raw_silver"
+    },
+    {
+      "item": "indrev:raw_silver"
+    }
+  ],
+  "output": {
+    "id": "indrev:silver_ingot",
+    "count": 3
+  },
+  "overrides": {
+    "2": {
+      "id": "indrev:silver_ingot",
+      "count": 4
+    },
+    "3+": {
+      "id": "indrev:silver_ingot",
+      "count": 5
+    }
+  },
+  "min_forge_tier": 1,
+  "fuel_per_tick": 5
+}

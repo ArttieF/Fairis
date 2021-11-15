@@ -1,0 +1,24 @@
+{
+  "type": "alloy_forgery:forging",
+  "inputs": [
+    {
+      "item": "indrev:tungsten_ore"
+    }
+  ],
+  "output": {
+    "id": "indrev:tungsten_ingot",
+    "count": 2
+  },
+  "overrides": {
+    "2": {
+      "id": "indrev:tungsten_ingot",
+      "count": 4
+    },
+    "3+": {
+      "id": "indrev:tungsten_ingot",
+      "count": 6
+    }
+  },
+  "min_forge_tier": 1,
+  "fuel_per_tick": 5
+}

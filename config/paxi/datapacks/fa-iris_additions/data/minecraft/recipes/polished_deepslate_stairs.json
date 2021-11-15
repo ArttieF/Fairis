@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"#  ",
+		"## ",
+		"###"
+	],
+	"key": {
+		"#": {
+			"item": "polished_deepslate"
+		}
+	},
+	"result": {
+		"item": "polished_deepslate_stairs",
+		"count": 6
+	}
+}
