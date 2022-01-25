@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " q ",
+    "qbq",
+    " q "
+  ],
+  "key": {
+    "q": {
+      "item": "minecraft:quartz"
+    },
+    "b": {
+      "item": "minecraft:quartz_block"
+    }
+  },
+  "result": {
+    "item": "geodes:quartz_geode"
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "geodes:emerald_geode"
+        }
+    ],
+    "result": {
+        "item": "minecraft:emerald",
+        "count": 13
+    }
+}

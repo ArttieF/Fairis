@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "teenycoal:teeny_coal"
+        },
+        {
+            "item": "teenycoal:teeny_coal"
+        },
+        {
+            "item": "teenycoal:teeny_coal"
+        },
+        {
+            "item": "teenycoal:teeny_coal"
+        },
+        {
+            "item": "teenycoal:teeny_coal"
+        },
+        {
+            "item": "teenycoal:teeny_coal"
+        },
+        {
+            "item": "teenycoal:teeny_coal"
+        },
+        {
+            "item": "teenycoal:teeny_coal"
+        }
+    ],
+    "result": {
+        "item": "minecraft:coal",
+        "count": 1
+    }
+}

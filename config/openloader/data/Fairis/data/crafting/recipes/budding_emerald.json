@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+    " E ",
+    "EnE",
+    " E "
+    ],
+    "key": {
+      "E": {
+        "item": "geodes:emerald_cluster"
+      },
+      "n": {
+        "item": "minecraft:nether_star"
+      }
+    },
+    "result": {
+        "item": "geodes:budding_emerald",
+        "count": 1
+    }
+}

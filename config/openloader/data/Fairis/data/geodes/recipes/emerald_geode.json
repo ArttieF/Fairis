@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " e ",
+    "ebe",
+    " e "
+  ],
+  "key": {
+    "e": {
+      "item": "minecraft:emerald"
+    },
+    "b": {
+      "item": "minecraft:emerald_block"
+    }
+  },
+  "result": {
+    "item": "geodes:emerald_geode"
+  }
+}

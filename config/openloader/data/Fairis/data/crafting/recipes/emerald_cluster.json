@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+    " e ",
+    "ese",
+    " e "
+    ],
+    "key": {
+      "e": {
+        "item": "minecraft:emerald"
+      },
+      "s": {
+        "item": "minecraft:slime_ball"
+      }
+    },
+    "result": {
+        "item": "geodes:emerald_cluster",
+        "count": 1
+    }
+}

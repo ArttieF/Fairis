@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "teenycoal:teeny_charcoal"
+        },
+        {
+            "item": "teenycoal:teeny_charcoal"
+        },
+        {
+            "item": "teenycoal:teeny_charcoal"
+        },
+        {
+            "item": "teenycoal:teeny_charcoal"
+        },
+        {
+            "item": "teenycoal:teeny_charcoal"
+        },
+        {
+            "item": "teenycoal:teeny_charcoal"
+        },
+        {
+            "item": "teenycoal:teeny_charcoal"
+        },
+        {
+            "item": "teenycoal:teeny_charcoal"
+        }
+    ],
+    "result": {
+        "item": "minecraft:charcoal",
+        "count": 1
+    }
+}

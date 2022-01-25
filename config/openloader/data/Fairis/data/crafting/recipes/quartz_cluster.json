@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+    " q ",
+    "qsq",
+    " q "
+    ],
+    "key": {
+      "q": {
+        "item": "minecraft:quartz"
+      },
+      "s": {
+        "item": "minecraft:slime_ball"
+      }
+    },
+    "result": {
+        "item": "geodes:quartz_cluster",
+        "count": 1
+    }
+}

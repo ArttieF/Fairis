@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+    " q ",
+    "qnq",
+    " q "
+    ],
+    "key": {
+      "q": {
+        "item": "geodes:quartz_cluster"
+      },
+      "n": {
+        "item": "minecraft:nether_star"
+      }
+    },
+    "result": {
+        "item": "geodes:budding_quartz",
+        "count": 1
+    }
+}
