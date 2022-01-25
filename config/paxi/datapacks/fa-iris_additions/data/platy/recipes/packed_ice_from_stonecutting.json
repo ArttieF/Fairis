@@ -1,8 +1,0 @@
-{
-	"type": "stonecutting",
-	"ingredient": {
-		"item": "blue_ice"
-	},
-	"result": "packed_ice",
-	"count": 9
-}

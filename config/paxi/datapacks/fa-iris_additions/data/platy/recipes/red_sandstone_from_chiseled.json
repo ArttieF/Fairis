@@ -1,8 +1,0 @@
-{
-	"type": "stonecutting",
-	"ingredient": {
-		"item": "chiseled_red_sandstone"
-	},
-	"result": "red_sandstone",
-	"count": 1
-}

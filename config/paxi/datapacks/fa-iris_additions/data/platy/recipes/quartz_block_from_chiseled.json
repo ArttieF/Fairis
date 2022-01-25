@@ -1,8 +1,0 @@
-{
-	"type": "stonecutting",
-	"ingredient": {
-		"item": "chiseled_quartz_block"
-	},
-	"result": "quartz_block",
-	"count": 1
-}

@@ -1,0 +1,12 @@
+#Mon Jan 24 13:50:43 CST 2022
+shadowDistance=90.0
+Celshading=true
+shadowMapResolution=1024
+TAA=false
+SSAO=false
+skyReflection=false
+Refractions=false
+emissive_B=1.0
+emissive_G=1.7
+Godrays=false
+grays_quality=1

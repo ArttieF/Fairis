@@ -1,9 +1,0 @@
-{
-	"type": "smelting",
-	"ingredient": {
-		"item": "sand"
-	},
-	"result": "glass",
-	"experience": 0.1,
-	"cookingtime": 200
-}
