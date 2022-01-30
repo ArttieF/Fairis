@@ -59,7 +59,7 @@
   ],
   "unstackablesOnly": false,
   //Whether Shulker Boxes should be blacklisted from being placed inside Inmis Backpacks.
-  "disableShulkers": false,
+  "disableShulkers": true,
   //Whether Backpacks should play a sound when opened.
   "playSound": true
 }

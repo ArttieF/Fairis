@@ -7,21 +7,21 @@
     "hideFromDebug": true,
     "enableTextToSpeech": false,
     "rateLimit": 250,
-    "maxHealthForRender": 80,
+    "maxHealthForRender": 40,
     "maxHeartsPerLine": 10
   },
   "overlay": {
     "position": {
       "align": {
         "x": "CENTER",
-        "y": "MIDDLE"
+        "y": "TOP"
       },
       "anchor": {
         "x": "CENTER",
-        "y": "MIDDLE"
+        "y": "TOP"
       },
       "x": 0,
-      "y": 20,
+      "y": 0,
       "bossBarsOverlap": false
     },
     "color": {

@@ -1,7 +1,7 @@
 {
   "waila": {
     "show_blocks": true,
-    "show_fluids": true,
+    "show_fluids": false,
     "show_entities": true,
     "show_item": true,
     "show_mod_name": true,

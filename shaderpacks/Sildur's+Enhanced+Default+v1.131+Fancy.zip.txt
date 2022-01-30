@@ -1,12 +1,5 @@
-#Tue Jan 25 15:23:27 CST 2022
-shadowDistance=90.0
+#Sun Jan 30 16:54:56 CST 2022
 Dof_Distance_View=384
-shadowMapResolution=1024
-TAA=false
-SSAO=false
-skyReflection=false
-Refractions=false
+Celshading=true
 emissive_B=1.0
 emissive_G=1.7
-Godrays=false
-grays_quality=1
