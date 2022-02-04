@@ -1,0 +1,86 @@
+# Fa-Iris
+A private minecraft 1.18.1 fabric modpack
+
+This is a modpack for myself and my friends, you're free to use it but Credit to original mod authors.
+List:
+ - 3d Skin Layers
+ - Actually Unbreaking
+ - Additional Additions
+ - Amplifier Nether
+ - Architectury
+ - Axolotl Item Fix
+ - Balm
+ - BCLib
+ - Better End
+ - Botania
+ - Bountiful
+ - Bow Infinity Fix
+ - Chalk
+ - Chat Heads
+ - Collective
+ - Combat Enchantments
+ - Comforts
+ - Continuity
+ - Compass Ribbon
+ - Custom Window Title
+ - Data Attributes
+ - Disable custom Worlds Advice
+ - Dynamic Music
+ - Fabric API
+ - Fabric Custom Cursor
+ - Fabric Language Kotlin
+ - Fabric Seasons
+ - Falling  Tree
+ - Farmers  Delight
+ - Forge Config API
+ - Golemancy
+ - Go Prone
+ - Highlighter
+ - Iceberg
+ - Immersive Weathering
+ - Immersive Portals
+ - Indium
+ - Infusion Table
+ - INMIS (I Need More Inventory Space)
+ - Inventory Sorter
+ - InvMove
+ - Iris
+ - Kambrik
+ - Legendary Tooltips
+ - Megane
+ - Micro Durability
+ - Modmenu
+ - More Ores
+ - Nether Portal Spread
+ - No Enchant Cap
+ - No Recipe Book
+ - Numismatic Overhaul
+ - OpenLoader
+ - Origins
+ - Origins Classes
+ - owo Lib
+ - Patchouli
+ - Peaceful Surface
+ - Pehkui
+ - Pickup Notifier
+ - Playerex
+ - Pling
+ - Presence Footsteps
+ - Puzzles Lib
+ - Rebind Narrator
+ - REI
+ - Sodium
+ - Sodium Extras
+ - Soundphysics
+ - Spelunker
+ - Spyglass Improvements
+ - Stoneholm
+ - Teenycoal
+ - The Extractinatoro
+ - Things
+ - Trashslot
+ - Trinkets
+ - Veinmining
+ - Villagernames
+ - WTHIT
+ - Xaeros WorldMap
