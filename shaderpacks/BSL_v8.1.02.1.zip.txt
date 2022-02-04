@@ -1,4 +1,0 @@
-#Sun Jan 30 10:02:46 CST 2022
-shadowDistance=512.0
-shadowMapResolution=4096
-DYNAMIC_HANDLIGHT=true

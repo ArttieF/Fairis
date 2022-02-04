@@ -1,5 +1,0 @@
-#Sun Jan 30 16:54:56 CST 2022
-Dof_Distance_View=384
-Celshading=true
-emissive_B=1.0
-emissive_G=1.7
