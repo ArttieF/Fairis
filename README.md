@@ -1,7 +1,7 @@
 # Fa-Iris
 A private minecraft 1.18.1 fabric modpack
 
-Please use Fabric API 0.46.6+1.18.
+Please use [Fabric API 0.46.6+1.18](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files/3671143).
 This is a modpack for myself and my friends, you're free to use it but Credit to original mod authors.
 List:
  - 3d Skin Layers
